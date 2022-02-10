@@ -1,0 +1,70 @@
+body{
+    background-image:url(marshmello-2.jpg) ;
+}
+header{
+    margin: 30px;
+    padding: 10px;
+    font-family: 'comic sans ms';
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 2.5em;
+    color: white;
+}
+b{
+    font-size: 1.8em;
+    font-family:'comic sans ms' ;
+}
+nav{
+    overflow: hidden;
+    background-color: burlywood;
+}
+
+nav a
+{
+    float: left;
+    text-decoration: none;
+    margin: 20px;
+    padding-right: 15px;
+    background-color: green;
+    color: white;
+    font-family: 'comic sans ms';
+    font-size: 1.7em;
+
+}
+nav a:hover{
+    background-color: wheat;
+    color: blue;
+}
+div{
+    background-color: orange;
+    color: white;
+}
+.row{
+    margin-top: 10%;
+}
+.row {
+    font-family: 'comic sans ms';
+    font-size: 15px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.row{
+    display: flex;
+    text-align: center;
+    width: auto;
+}
+.left{
+    padding-right: 40px;
+}
+.center{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.right{
+    
+padding-left: 40px;
+}
+ div h2{
+    background-color: paleturquoise;
+    color: rebeccapurple;
+}

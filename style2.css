@@ -1,0 +1,30 @@
+*{
+    background-image: url(marshmello-2.jpg);
+    margin: 0;
+    padding: 0;
+    font-family: 'comic sans ms';
+}
+a{
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+b{
+    background-color: rgb(89, 0, 255);
+    color: violet;
+    font-size: 1.6em;
+    font-family: 'comic sans ms';
+}
+nav a{
+    font-size: 1em;
+    font-family: 'comic sans ms';
+    float: left;
+    text-decoration: none;
+    text-align: start;
+}
+nav b:hover{
+    background-color: red;
+    
+    color: wheat;
+}
